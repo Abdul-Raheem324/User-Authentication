@@ -33,7 +33,7 @@ Here are some screenshots to showcase the application:
 
 - **Login Screen:**
 
-  ![Login Screen](public/assets/images/login.png)
+  ![Login Screen](public/assets/images/login.PNG)
 
 
 
