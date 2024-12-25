@@ -102,9 +102,6 @@ export default function LoginPage() {
                 {loading ? <Spinner size="sm" /> : 'Login'}
               </button>
             </div>
-            <p className="mt-2 bg-gradient-to-r from-violet-600 to-indigo-600 bg-clip-text text-center font-roboto text-lg tracking-wide text-transparent md:text-xl">
-              Forgot Password?
-            </p>
           </div>
         </div>
       </div>

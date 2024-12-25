@@ -19,6 +19,24 @@ This project is a user authentication system built using **Next.js** and **TypeS
 - **Nodemailer**: For sending email verification links.
 - **bcrypt**: To hash passwords for secure storage.
 
+## Screenshots
+
+Here are some screenshots to showcase the application:
+
+- **Sign Up Screen:**
+
+  ![Sign Up Screen](public/assets/images/sign-up.PNG)
+
+- **Email Verification:**
+
+  ![Email Verification](public/assets/images/verify-email.PNG)
+
+- **Login Screen:**
+
+  ![Login Screen](public/assets/images/login.png)
+
+
+
 ## Prerequisites
 
 Before running this project, ensure you have the following installed:

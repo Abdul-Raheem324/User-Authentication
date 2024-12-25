@@ -30,7 +30,7 @@ const ProfilePage = () => {
 
   return (
     <div className="flex min-h-screen w-full flex-col items-center justify-center bg-zinc-800 p-4 sm:p-6 md:p-8 lg:p-10">
-      <div className="w-full max-w-md rounded-md border-gray-200 text-center bg-gray-900 p-6 sm:p-8 md:p-10 lg:p-12">
+      <div className="w-1/2 rounded-md border-gray-200 text-center bg-gray-900 p-6 sm:p-8 md:p-10 lg:p-12">
         <button
           onClick={logout}
           className="float-right m-2 inline-block rounded-lg bg-red-500 px-2 py-3 text-gray-200 hover:bg-red-700 hover:text-black"
